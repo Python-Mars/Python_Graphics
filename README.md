@@ -13,7 +13,7 @@
 
 ![Screen Shot 2019-11-24 at 8 36 39 PM](https://user-images.githubusercontent.com/34743233/69496635-3f031180-0efa-11ea-8396-9c988d35f044.png)
 
-## Rectangle
+## Square
 
 ![Screen Shot 2019-11-24 at 8 51 58 PM](https://user-images.githubusercontent.com/34743233/69496853-a28e3e80-0efc-11ea-82fa-560804532671.png)
 
