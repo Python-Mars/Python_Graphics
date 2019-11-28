@@ -21,4 +21,6 @@
 
 ![Screen Shot 2019-11-28 at 10 24 08 AM](https://user-images.githubusercontent.com/34743233/69778229-9094f000-11c9-11ea-8cc5-576b4eed4543.png)
 
+## Triangle
 
+![Screen Shot 2019-11-28 at 10 36 47 AM](https://user-images.githubusercontent.com/34743233/69778638-1cf3e280-11cb-11ea-8fb2-7fc63403f6ad.png)
